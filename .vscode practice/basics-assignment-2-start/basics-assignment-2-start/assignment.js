@@ -15,7 +15,7 @@ return combinedText;
 
 surname( ' Ehiawey')
 
-task3Element.addEventListener('click' greet);
+task3Element.addEventListener('click', greet);
 
 const combinedString = combine('It is fine', 'trying', 'out!' );
 alert(combinedString);
