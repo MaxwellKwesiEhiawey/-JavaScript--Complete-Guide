@@ -23,6 +23,7 @@ if (randomNumber >= 0.7) {
 
     const randomNumber2 = math.random();
 
+    console.log(randomNumber);
     console.log(randomNumber2);
 if( 
 (randomNumber > 0.7 && randomNumber2 > 0.7) || randomNumber <= 0.2 || randomNumber2 <= 0.2 ) { 
