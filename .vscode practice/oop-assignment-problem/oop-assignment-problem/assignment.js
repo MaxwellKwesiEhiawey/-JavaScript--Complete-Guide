@@ -69,9 +69,10 @@ const flutterCourse = new TheoreticalCourse(
   50,
   48
 );
-
-flutterCourse.price = 5000;
-flutterCourse.#price = 100;
+class course { 
+  flutterCourse.#price = 100;
+  flutterCourse.price = 5000;
+}
 
 flutterCourse.printSummary();
 flutterCourse.publish();
