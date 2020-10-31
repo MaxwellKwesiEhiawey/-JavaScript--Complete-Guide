@@ -1,0 +1,32 @@
+{
+  "name": "-javascript--complete-guide",
+  "version": "1.0.0",
+  "description": "javascript--complete-guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxwellKwesiEhiawey/-JavaScript--Complete-Guide.git"
+  },
+  "keywords": [
+    "Maxwell",
+    "Kwesi",
+    "Ehiawey"
+  ],
+  "author": "Maxwell Kwesi Ehiawey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxwellKwesiEhiawey/-JavaScript--Complete-Guide/issues"
+  },
+  "homepage": "https://github.com/MaxwellKwesiEhiawey/-JavaScript--Complete-Guide#readme",
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "webpack": "^4.44.2",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
